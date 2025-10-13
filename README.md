@@ -46,8 +46,6 @@
 - 📦 **Inventory / ERP Modules** – Business management modules  
 - 🏢 **Multitenant Laravel Apps** – SaaS with custom domains
 
-_(You can update these names and add links after pinning your repos!)_
-
 ---
 
 ## 📬 Let's Connect
