@@ -1,52 +1,60 @@
-<h1 align="center">Hi 👋, I'm Nabila Ahmed</h1>
-<h3 align="center">Backend Developer (Laravel)</h3>
+<h1 align="center">
+  Hey there 👋, I'm <span style="color:#8be9fd;">Nabila Ahmed</span>  
+</h1>
 
----
+<h3 align="center">
+  💻 Backend Developer  | API Builder | Problem Solver
+</h3>
 
-### 🚀 About Me
-- 🔭 I’m a passionate **Backend Developer** specializing in **Laravel**
-- 🌱 Currently improving my skills in **API development, authentication, multitenancy, and performance optimization**
-- 💬 Ask me about **Laravel, Vue.js, Tailwind CSS, REST APIs, MySQL**
-- 📫 Reach me at **nabilashabban2000@gmail.com**
-
----
-
-### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,vue,js,html,css,bootstrap,tailwind,git,github" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8BE9FD&vCenter=true&lines=Laravel+Backend+Developer;REST+API+Enthusiast;Clean+Code+Lover;Always+Learning+%F0%9F%93%9A" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 About Me
+🌟 Passionate about writing clean and scalable backend systems with **Laravel**  
+🧠 Always exploring new tricks in **APIs, authentication, and database design**  
+⚙️ I love working on multitenancy, dashboards, and real-world web apps  
+📩 You can reach me at **nabilashabban2000@gmail.com**
+
+---
+
+## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nabilaahmed2000&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabilaahmed2000&theme=tokyonight" alt="Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabilaahmed2000&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,vue,js,html,css,bootstrap,tailwind,postman,git,github,vscode" alt="tech stack" />
 </p>
 
 ---
 
-### 🌟 Featured Projects
-Here are some of my top repositories (you can update these names later):
+## ⚡ GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nabilaahmed2000&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabilaahmed2000&theme=radical" height="170" />
+</p>
 
-- 🔹 **QRCar** – Vehicle management system for car centers  
-- 🔹 **QEvent** – Event organization and ticketing platform  
-- 🔹 **Inventory / ERP modules** – Custom-built business management features  
-- 🔹 **Multitenant Laravel Apps** – Custom domain & SaaS setups
-
-_Add project links after pinning them on GitHub._
-
----
-
-### 📬 Contact Me
-📧 **Email:** nabilashabban2000@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabilaahmed2000&layout=compact&theme=radical" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
-I love solving backend challenges and turning business ideas into real applications!
+## 🌟 Featured Projects
+✨ **Here are some projects I’ve worked on:**
+- 🚗 **QRCar** – Vehicle management platform for service centers  
+- 🎟️ **QEvent** – Event management and ticketing system  
+- 📦 **Inventory / ERP Modules** – Business management modules  
+- 🏢 **Multitenant Laravel Apps** – SaaS with custom domains
+
+_(You can update these names and add links after pinning your repos!)_
+
+---
+
+## 📬 Let's Connect
+📧 **Email:** `nabilashabban2000@gmail.com`  
+💬 Open to collaboration, freelance, or exciting backend work!
+
+---
+
+## 🎉 Fun Fact
+I don’t just write code — I fix bugs I haven’t created yet 😄  
