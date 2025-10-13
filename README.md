@@ -40,16 +40,9 @@
 ---
 
 ## 🐍 Contribution Snake (animated)
-Watch the snake chase your GitHub contributions!  
-
 <p align="center">
-  <!-- Contribution snake image: change 'theme' or add 'cache_seconds' if you want -->
   <img src="https://raw.githubusercontent.com/Platane/snk/master/snake.svg?user=Nabilaahmed2000&theme=github-dark" alt="Contribution Snake" />
 </p>
-
-> Tip: If you want a light theme, change `theme=github-dark` to `theme=github-light`.
-You can also append `&cache_seconds=1800` (for 30 min) to force periodic refresh:
-https://raw.githubusercontent.com/Platane/snk/master/snake.svg?user=Nabilaahmed2000&theme=github-dark&cache_seconds=1800
 
 ---
 
