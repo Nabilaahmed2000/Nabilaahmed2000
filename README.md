@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Backend Developer  | API Builder | Problem Solver
+  💻 Backend Developer (Laravel) | API Builder | Problem Solver
 </h3>
 
 <p align="center">
@@ -39,12 +39,28 @@
 
 ---
 
+## 🐍 Contribution Snake (animated)
+Watch the snake chase your GitHub contributions!  
+
+<p align="center">
+  <!-- Contribution snake image: change 'theme' or add 'cache_seconds' if you want -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/snake.svg?user=Nabilaahmed2000&theme=github-dark" alt="Contribution Snake" />
+</p>
+
+> Tip: If you want a light theme, change `theme=github-dark` to `theme=github-light`.
+You can also append `&cache_seconds=1800` (for 30 min) to force periodic refresh:
+https://raw.githubusercontent.com/Platane/snk/master/snake.svg?user=Nabilaahmed2000&theme=github-dark&cache_seconds=1800
+
+---
+
 ## 🌟 Featured Projects
 ✨ **Here are some projects I’ve worked on:**
 - 🚗 **QRCar** – Vehicle management platform for service centers  
 - 🎟️ **QEvent** – Event management and ticketing system  
 - 📦 **Inventory / ERP Modules** – Business management modules  
 - 🏢 **Multitenant Laravel Apps** – SaaS with custom domains
+
+_(You can update these names and add links after pinning your repos!)_
 
 ---
 
@@ -55,4 +71,4 @@
 ---
 
 ## 🎉 Fun Fact
-I don’t just write code — I fix bugs I haven’t created yet 😄  
+I don’t just write code — I fix bugs I haven’t created yet 😄
