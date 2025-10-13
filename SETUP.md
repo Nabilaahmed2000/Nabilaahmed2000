@@ -74,3 +74,12 @@ Your profile now includes:
 ---
 
 **Note:** After pushing these changes, wait a few minutes for GitHub to process the workflows, then check your profile!
+
+## Permission fix applied
+
+If your previous workflow run failed with a 403 when pushing to the `output` branch (error: "Permission to ... denied to github-actions[bot]"), we've applied two fixes in the workflows:
+
+- The job now declares `permissions: contents: write` so the `GITHUB_TOKEN` has push rights.
+- The gh-pages action now receives the token explicitly via `github_token: ${{ secrets.GITHUB_TOKEN }}`.
+
+After this change, re-run the workflow (Actions → Generate Snake → Run workflow) or push a small commit to `main` to trigger it. Then check the `output` branch again for the generated SVG files.

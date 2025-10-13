@@ -11,6 +11,9 @@ on:
 
 jobs:
   generate:
+    # allow this job to write repository contents (needed to push generated files)
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
@@ -34,5 +37,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # explicitly pass the token to the action
+          github_token: ${{ secrets.GITHUB_TOKEN }}
