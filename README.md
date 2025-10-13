@@ -1,123 +1,143 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokua<h2 align="center">🌟 Featured Projects 🌟</h2>
-<br>
+<h1 align="center"><h1 align="center"><h1 align="center">
 
-### 🚗 QRCar - Vehicle Management Platform
-**Tech Stack:** Laravel, MySQL, Vue.js  
-**Features:** Service tracking, QR code integration, customer management
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nabila+Ahmed!;" />
 
-### 🎟️ QEvent - Event Management System  
-**Tech Stack:** Laravel, RESTful APIs, Payment Integration  
-**Features:** Ticket booking, event analytics, real-time notifications
+</h1>  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nabila+Ahmed!;" />  <img src="https://readme-typing-svg.herokua<h2 align="center">🌟 Featured Projects 🌟</h2>
 
-### 📦 ERP & Inventory Management
-**Tech Stack:** Laravel, Multi-tenancy, Advanced reporting  
-**Features:** Real-time inventory, business analytics, role-based access
 
-### 🏢 Multi-tenant SaaS Applications
-**Tech Stack:** Laravel, Custom domains, API-first architecture  
-**Features:** Tenant isolation, scalable architecture, custom branding
+
+<h3 align="center">🚀 Backend Developer | Laravel Expert | API Architect 🚀</h3></h1><br>
+
+
 
 <br/>
 
----
 
-<br/>
 
-<div align="center">
-  <h2>💭 Quote of the Day 💭</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</div>
+<div align="center"><h3 align="center">🚀 Backend Developer | Laravel Expert | API Architect 🚀</h3>### 🚗 QRCar - Vehicle Management Platform
 
-<br/>
-
----
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Email!;I'm+always+down+to+collab+:)">
-</h3>
-
-<br/>us&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nabila+Ahmed!;" />
-</h1>
-
-<h3 align="center">� Backend Developer | Laravel Expert | API Architect 🚀</h3>
-
-<br/>
-
-<div align="center">
  
- 🔭 I'm currently working on **Laravel Backend Projects**
+
+ 🔭 I'm currently working on **Laravel Backend Projects****Tech Stack:** Laravel, MySQL, Vue.js  
+
  
- 🌱 I'm currently learning **Advanced Laravel Patterns & Microservices**
+
+ 🌱 I'm currently learning **Advanced Laravel Patterns & Microservices**<br/>**Features:** Service tracking, QR code integration, customer management
+
  
+
  💬 Ask me about **Laravel, PHP, REST APIs, Database Design**
 
- ⚡ Fun fact **I debug code faster than I can write it! 😄**
 
- </div>
+
+ ⚡ Fun fact **I debug code faster than I can write it! 😄**<div align="center">### 🎟️ QEvent - Event Management System  
+
+
+
+ </div> **Tech Stack:** Laravel, RESTful APIs, Payment Integration  
+
  
-<div align="center"> 
+
+<div align="center">  🔭 I'm currently working on **Laravel Backend Projects****Features:** Ticket booking, event analytics, real-time notifications
+
   <a href="mailto:nabilashabban2000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> 
+
   </a>
-  <a href="https://linkedin.com/in/nabila-ahmed" target="_blank">
+
+  <a href="https://linkedin.com/in/nabila-ahmed" target="_blank"> 🌱 I'm currently learning **Advanced Laravel Patterns & Microservices**### 📦 ERP & Inventory Management
+
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+  </a> **Tech Stack:** Laravel, Multi-tenancy, Advanced reporting  
+
 </div>
 
- <hr/>
+ 💬 Ask me about **Laravel, PHP, REST APIs, Database Design****Features:** Real-time inventory, business analytics, role-based access
+
+<hr/>
 
  
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
+<br/> ⚡ Fun fact **I debug code faster than I can write it! 😄**### 🏢 Multi-tenant SaaS Applications
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,javascript,vue,html,css,bootstrap,tailwind" />
+
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,javascript,vue,html,css,bootstrap,tailwind" />**Tech Stack:** Laravel, Custom domains, API-first architecture  
+
     <br>
-    <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,composer,npm,docker" />
+
+    <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,composer,npm,docker" /> </div>**Features:** Tenant isolation, scalable architecture, custom branding
+
 </div>
+
+ 
 
 <br/>
+
+<hr/><div align="center"> <br/>
+
+
+
+<div align="center">  <a href="mailto:nabilashabban2000@gmail.com">
+
+  <h2>🐍 My Contributions 🐍</h2>
+
+  <br>    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />---
+
+  <picture>
+
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nabilaahmed2000/Nabilaahmed2000/output/github-contribution-grid-snake-dark.svg">  </a>
+
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nabilaahmed2000/Nabilaahmed2000/output/github-contribution-grid-snake.svg">
+
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nabilaahmed2000/Nabilaahmed2000/output/github-contribution-grid-snake.svg">  <a href="https://linkedin.com/in/nabila-ahmed" target="_blank"><br/>
+
+  </picture>
+
+  <br/><br/><br/>    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+</div>
+
+  </a><div align="center">
+
 <hr/>
+# Nabila Ahmed — Backend Developer (Laravel)
+
+Hi — I'm Nabila. I build backend systems, REST APIs, and multi-tenant Laravel apps.
+
+---
+
+## About this profile
+
+- The repository's workflows generate an animated "snake" SVG that visualizes GitHub contributions.
+- The workflow writes the generated files into a branch named `output`.
+
+## My Contributions
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Nabilaahmed2000/Nabilaahmed2000/output/snake.svg" />
-  
-  <br/><br/><br/>
+  <picture>
+    <!-- dark/light aware sources (generated by the workflow) -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nabilaahmed2000/Nabilaahmed2000/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nabilaahmed2000/Nabilaahmed2000/output/github-contribution-grid-snake.svg">
+    <!-- fallback image -->
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Nabilaahmed2000/Nabilaahmed2000/output/github-contribution-grid-snake.svg" style="max-width:100%;height:auto;" />
+  </picture>
 </div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Nabilaahmed2000&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Nabilaahmed2000&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Nabilaahmed2000&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-## 🌟 Featured Projects
-✨ **Here are some projects I’ve worked on:**
-- 🚗 **QRCar** – Vehicle management platform for service centers  
-- 🎟️ **QEvent** – Event management and ticketing system  
-- 📦 **Inventory / ERP Modules** – Business management modules  
-- 🏢 **Multitenant Laravel Apps** – SaaS with custom domains
-
-_(Update these later with links after pinning your repos!)_
 
 ---
 
-## 📬 Let's Connect
-📧 **Email:** `nabilashabban2000@gmail.com`  
-💬 Open to collaboration, freelance, or exciting backend work!
+## Quick verification
+
+1. After running the workflow, check the `output` branch on GitHub for files named like:
+   - `github-contribution-grid-snake.svg`
+   - `github-contribution-grid-snake-dark.svg`
+2. Open the raw URL in your browser to verify the SVG renders:
+   - https://raw.githubusercontent.com/Nabilaahmed2000/Nabilaahmed2000/output/github-contribution-grid-snake.svg
 
 ---
 
-## 🎉 Fun Fact
-I don’t just write code — I fix bugs I haven’t created yet 😄
+If anything is still broken after running the workflow, open the Actions run logs and paste the error here — I'll debug the exact step.
