@@ -39,11 +39,10 @@
 
 ---
 
-## 🐍 Contribution Snake 
+## 🐍 Contribution Snake (animated)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nabilaahmed2000/Nabilaahmed2000/main/dist/snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Nabilaahmed2000/Nabilaahmed2000/output/dist/snake.svg" alt="Contribution Snake Animation" />
 </p>
-
 
 ---
 
@@ -54,7 +53,7 @@
 - 📦 **Inventory / ERP Modules** – Business management modules  
 - 🏢 **Multitenant Laravel Apps** – SaaS with custom domains
 
-_(You can update these names and add links after pinning your repos!)_
+_(Update these later with links after pinning your repos!)_
 
 ---
 
