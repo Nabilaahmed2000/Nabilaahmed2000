@@ -39,9 +39,9 @@
 
 ---
 
-## 🐍 Contribution Snake (animated)
+## 🐍 Contribution Snake 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/snake.svg?user=Nabilaahmed2000&theme=github-dark" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Nabilaahmed2000/Nabilaahmed2000/output/dist/snake.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
