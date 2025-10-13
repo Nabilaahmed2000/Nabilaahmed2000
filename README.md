@@ -41,8 +41,9 @@
 
 ## 🐍 Contribution Snake 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nabilaahmed2000/Nabilaahmed2000/output/dist/snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Nabilaahmed2000/Nabilaahmed2000/main/dist/snake.svg" alt="Contribution Snake Animation" />
 </p>
+
 
 ---
 
