@@ -10,7 +10,7 @@
 
 <p align="center"> 
   <a href="mailto:nabilashabban2000@gmail.com"><img src="https://img.shields.io/badge/Email-nabilashabban2000%40gmail.com-ff69b4?style=for-the-badge&logo=gmail" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/nabila-ahmed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/nabila-ahmed-4b1494184/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
   <a href="https://github.com/Nabilaahmed2000" target="_blank"><img src="https://img.shields.io/badge/GitHub-Nabilaahmed2000-333333?style=for-the-badge&logo=github" alt="github"/></a>
 </p>
 
@@ -48,13 +48,12 @@
 - **Inventory / ERP Modules** — Business management modules (Laravel)
 - **Multi-tenant SaaS** — Multi-tenant Laravel apps, custom domains
 
-> Pin the repos above to your profile to show them in the pinned section.
 
 ---
 
 ## 📫 Contact
 - Email: nabilashabban2000@gmail.com
-- LinkedIn: https://www.linkedin.com/in/nabila-ahmed
+- LinkedIn: https://www.linkedin.com/in/nabila-ahmed-4b1494184/
 
 ---
 
